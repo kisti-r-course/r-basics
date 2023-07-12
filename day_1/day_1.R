@@ -4,7 +4,11 @@
 
 
 # 이것은 주석입니다
+2 + 3
 
+print("Hello world!")
+
+print(2 + 3)
 
 
 
